@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<string name="app_name">MyAndroidApp</string>-->
+    <!--<string name="country_prompt">Choose a country</string>-->
+
+    <string-array name="categoria_primaria">
+        <item>Eletrônicos</item>
+        <item>Peças de computador</item>
+
+
+    </string-array>
+
+    <string-array name="categoria_secundaria_eletronicos">
+        <item>Celular</item>
+        <item>Notebook</item>
+        <item>Televisão</item>
+        <item>Aparelho DVD/Blueray</item>
+
+    </string-array>
+
+    <string-array name="categoria_secundaria_peçascomputador">
+        <item>Placa mãe</item>
+        <item>Placa de vídeo</item>
+        <item>Cooler</item>
+        <item>Fonte</item>
+
+    </string-array>
+
+</resources>
